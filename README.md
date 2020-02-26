@@ -1,4 +1,6 @@
-# JamesWebb
+# James Webb Space Telescope
+## Giant Planet Observations
+
 Information repository for Giant Planet observations from James Webb Space Telescope.  Within this directory, you'll find PDF documents describing the observation strategies MIRI (and sometimes NIRSPEC) observations for all four targets, as well as the APT files for the submissions.
 
 This work is based on Guaranteed Time Observations led by L.N. Fletcher, using IDS time kindly donated by H.B. Hammel for solar system observations.  The information here has benefitted from helpful conversations with Henrik Melin, Alistair Glasse, Mike Wong, Pat Fry, Matt Tiscareno, Stefanie Milam, John Stansberry, Bryan Holler, and our programme coordinator Beth Perriello.  All data from these programmes will be publically available as soon as they are on the ground.
