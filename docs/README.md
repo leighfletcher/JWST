@@ -12,6 +12,7 @@ The accepted observations are as follows:
 
 Any questions, or spot any mistakes, please contact me.
 
+Link to [Jupiter](jupiter.md)
 
 
 
